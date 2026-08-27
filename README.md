@@ -1,2 +1,4 @@
-##Algoritimos essenciais##
-Entregável #1 Ambientes Desenv. Software
+# Algoritmos Essenciais
+
+## Entregável #1: Ambientes de Desenvolvimento de Software
+
